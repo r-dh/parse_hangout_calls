@@ -44,11 +44,11 @@ python plot_data.py -f hangout_calls_CONTACTNAME.json --frequency W
 ## Examples
 
 Default setting, by day:
-![bokeh_plot_day](.\examples\bokeh_plot_day.png)
+![](https://github.com/r-dh/parse_hangout_calls/blob/master/examples/bokeh_plot_day.png)
 
 Week:
-![bokeh_plot_week](.\examples\bokeh_plot_week.png)
+![](https://github.com/r-dh/parse_hangout_calls/blob/master/examples/bokeh_plot_week.png)
 
 Month:
-![bokeh_plot_month](.\examples\bokeh_plot_month.png)
+![](https://github.com/r-dh/parse_hangout_calls/blob/master/examples/bokeh_plot_month.png)
 
